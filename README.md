@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joond10!
-- 🌱 I’m currently studying at Seneca and hope to become a software developer.
+- 👋 Hi, I’m Joon!
+- 🌱 I’m currently studying at Seneca Polytechnic and hope to become a software developer.
 
 
 <!---
