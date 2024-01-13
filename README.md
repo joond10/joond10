@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Joon!
-- 🌱 Currently studying at Seneca Polytechnic and hope to become a software developer.
+- 🌱 Student at Seneca Polytechnic
+
 
 
 <!---
