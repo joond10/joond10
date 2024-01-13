@@ -1,5 +1,5 @@
 #  About Me:
-Hi! I'm Joon.<br> I'm currently a student at Seneca Polytechnic for Computer Programming. <br>I am learning everyday and motivated to be proficient and work ready by May. <br>🌱 I’m currently learning C++, JS, HTML, CSS and Oracle<br>
+Hi, I'm Joon!<br> I'm currently a student at Seneca Polytechnic for Computer Programming. <br>Consistently learning everyday. <br>🌱 I’m currently learning C++, JS, HTML, CSS and Oracle<br>
 
 
 ## 🌐 Socials:
