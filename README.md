@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I'm Joon!<br>Currently developing profiency in C++, JS, HTML, CSS and Oracle as a student.<br> <br>
+Hi, I'm Joon!<br>Currently developing profiency in C++, JS, HTML, CSS and SQL as a student.<br> <br>
 Self-learning Java.
 
 ## 💻 Tech Stack (so far):
