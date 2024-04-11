@@ -1,6 +1,6 @@
 #  About Me:
 Hi, I'm Joon!<br>Currently a computer programming student.<br>
-Next project: Learning React by making an artist website!
+
 <br>
 <br>
 <a  href="https://www.linkedin.com/in/joon-dong/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
